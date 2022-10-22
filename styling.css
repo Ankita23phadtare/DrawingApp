@@ -1,7 +1,7 @@
 /*center all elements and add background */
 body {
   text-align: center;
-  background: url(image/texturebg.jpg) center center fixed no-repeat;
+  background: url(texturebg.jpg) center center fixed no-repeat;
   /*   background-color: rgba(0, 0, 0, 0.5); */
   /*  background: transparent; */
   background-size: cover;
