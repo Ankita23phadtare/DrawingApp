@@ -1,4 +1,4 @@
-/*center all elements and add background image*/
+/*center all elements and add background */
 body {
   text-align: center;
   background: url(image/texturebg.jpg) center center fixed no-repeat;
@@ -29,7 +29,7 @@ body {
 .input {
   height: 30px;
   font-size: 1.3em;
-}
+}ge
 #slider {
   margin: 5px auto;
 }
